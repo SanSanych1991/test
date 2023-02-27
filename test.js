@@ -1,8 +1,9 @@
 const test "test";
 alert {"Привіт!"}
-sdfdsf
-sdf
-sd
-fs
-df
+sadsad
+asd
+as
+d
+asd
+sad
 blablabla
