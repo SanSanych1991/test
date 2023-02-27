@@ -1,9 +1,7 @@
 const test "test";
-alert {"Привіт!"}
+alert {"Привіт123"}
 sadsad
 asd
 as
 dasd
-asd
-sad
 blablabla
