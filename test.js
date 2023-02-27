@@ -1,7 +1,10 @@
 const test "test";
-alert {"Привіт123"}
-sadsad
-asd
-as
-dasd
-blablabla
+aasdfdsf;asdf';jsad'f;lsdf
+sadf
+sd
+f
+asdf
+sadf
+sd
+f
+sdfsad
